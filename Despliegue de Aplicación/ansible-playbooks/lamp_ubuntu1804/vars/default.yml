@@ -1,0 +1,7 @@
+---
+mysql_root_password: "root"
+app_user: "salmahg"
+http_host: "shernandez.com"
+http_conf: "shernandez.conf"
+http_port: "80"
+disable_default: true
